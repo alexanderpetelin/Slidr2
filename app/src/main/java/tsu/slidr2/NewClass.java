@@ -9,6 +9,8 @@ public class NewClass {
     private String FIO;
     private Date bithday;
 
+    //TODO Это новая строка в проекте добавлена в GitHub
+    
     public String getFIO() {
         return FIO;
     }
