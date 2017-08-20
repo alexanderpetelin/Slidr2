@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Slidr2</string>
+    <string name="HelloWorld">Hello World!</string>
+    <string name="HelloWorld2">It is second text</string>
+</resources>
