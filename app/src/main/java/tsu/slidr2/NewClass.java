@@ -10,6 +10,8 @@ public class NewClass {
     private Date bithday;
 
     //TODO Это новая строка в проекте добавлена в GitHub
+
+    // TODO: 20.08.2017 А эта строка добавлена в AndroidStudio 
     
     public String getFIO() {
         return FIO;
